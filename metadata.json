@@ -1,0 +1,8 @@
+
+{
+  "name": "WinDeal Solutions - International Call Center",
+  "description": "A professional business website for WinDeal Solutions, a leading call center and IT services provider based in Bangladesh serving global clients.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
